@@ -101,7 +101,7 @@ class PlayerComponent extends PositionComponent
     if (moveexecuting) return;
     moveexecuting = true;
     int index = 0;
-    double speed = 40;
+    double speed = 5;
     if (!moving) {
       index = 4;
       animating = false;

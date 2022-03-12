@@ -101,7 +101,7 @@ class Background extends PositionComponent with HasHitboxes, Collidable {
       22,
       22,
       22,
-      //
+      //6th inside
       26,
       26,
       26,
